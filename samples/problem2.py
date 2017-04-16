@@ -1,8 +1,8 @@
-import sys
+iimport sys
 import os
 
 args = sys.argv
-file_to_open = None
+file_to_open = ten
 file_to_return = None
 prompt = False
 verbose_flag = False
